@@ -2414,7 +2414,15 @@ input, select, textarea {
 	    width: 100px;
 	    display: inline-block;
 	}
-		
+
+	.lenswatchicon {
+	    /*background: url('images/noun_HST.jpg');*/
+	    background: url('images/lenswatch_icon_white_transparentBG.png');
+	    height: 70px;
+	    width: 70px;
+	    display: inline-block;
+	}
+	
 		
 /* Image */
 
